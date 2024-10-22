@@ -22,7 +22,7 @@ app.py
 ### STEPS:
 Clone the repository
 
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/Vikas-Rathod1/End-to-End-Object-Detection
 
 
 ### STEP 01- Create a conda environment after opening the repository
